@@ -1,1 +1,7 @@
-
+{
+  "host": "terrieoctaviad.aternos.me",
+  "port": 25565,
+  "version": false,
+  "auth": "offline",
+  "username": "MyAFKBot"
+}
